@@ -51,6 +51,10 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
