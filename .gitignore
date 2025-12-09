@@ -542,3 +542,8 @@ Content/__ExternalObjects__/
 !_Etc/VC_redist.x64.exe
 !Plugins/VivoxCoreUE4Plugin/Source/ThirdParty/VivoxCoreLibrary/**
 Source/project_two.Target.cs
+
+
+# Package #
+
+Packed/
